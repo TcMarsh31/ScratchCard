@@ -1,0 +1,15 @@
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/bin/Debug/netstandard2.0/ScratchCard.deps.json
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/bin/Debug/netstandard2.0/ScratchCard.dll
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/bin/Debug/netstandard2.0/ref/ScratchCard.dll
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/bin/Debug/netstandard2.0/ScratchCard.pdb
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.csproj.AssemblyReference.cache
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.AssemblyInfoInputs.cache
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.AssemblyInfo.cs
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.csproj.CoreCompileInputs.cache
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.dll
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ref/ScratchCard.dll
+/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard/obj/Debug/netstandard2.0/ScratchCard.pdb

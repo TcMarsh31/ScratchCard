@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ScratchCard.MainPage"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:tt="clr-namespace:ScratchCard">
+   <StackLayout Padding="0"  BackgroundColor="White">
+       <StackLayout.Margin>
+           <OnPlatform x:TypeArguments="Thickness">
+               <On Platform="iOS" Value="0,40,0,0"></On>
+               <On Platform="Android" Value="0"></On>
+           </OnPlatform>
+
+       </StackLayout.Margin>
+        <Grid BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowDefinitions="*" ColumnDefinitions="*">
+            <Grid.Effects>
+                <tt:TouchEffect Capture="True" TouchAction="TouchEffect_TouchAction" />
+            </Grid.Effects>
+            <StackLayout BackgroundColor="White" Grid.Row="0" Grid.Column="0" >
+                
+                <Image x:Name="GIF"
+                            HeightRequest="300" 
+                            WidthRequest="300" 
+                            Source="gift.png"/>
+
+                <Label 
+                   Text="Congratulations..!" 
+                   TextColor="Black" 
+                   FontAttributes="Bold" 
+                   FontSize="Medium" 
+                   HorizontalOptions="Center"/>
+
+            </StackLayout>
+            <skia:SKCanvasView x:Name="canvasView" 
+                           Grid.Row="0" 
+                           Grid.Column="0" 
+                           HorizontalOptions="FillAndExpand" 
+                           VerticalOptions="FillAndExpand"
+                           PaintSurface="CanvasView_PaintSurface"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
+

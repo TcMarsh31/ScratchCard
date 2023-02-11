@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1UeLK6dWSfbJ7B+JkMDPOVkt4pEDkR6XD6hzSBgJWfTN72IUQjqNQQx1syorKcxhJ9uxMFdedL60/EOZjYO7A==",
+  "success": true,
+  "projectFilePath": "/Users/panchanathantharsan/Projects/ScratchCard/ScratchCard/ScratchCard.iOS/ScratchCard.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/panchanathantharsan/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/skiasharp.nativeassets.ios/2.88.3/skiasharp.nativeassets.ios.2.88.3.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/skiasharp.views/2.88.3/skiasharp.views.2.88.3.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/skiasharp.views.forms/2.88.3/skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/panchanathantharsan/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

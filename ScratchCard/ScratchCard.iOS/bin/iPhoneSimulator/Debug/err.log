@@ -1,0 +1,12 @@
+objc[3385]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x7ff86437c4f8) and /Users/panchanathantharsan/Library/Developer/CoreSimulator/Devices/7091B271-B464-45BD-8B39-55388F03D20D/data/Containers/Bundle/Application/404B03A8-B9E9-4DE5-9A76-D8C236CDFE4D/ScratchCard.iOS.app/ScratchCard.iOS (0x10e4fa0c8). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2023-02-11 14:33:54.464230+0000 ScratchCard.iOS[3385:93913] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3385
+2023-02-11 14:33:54.464745+0000 ScratchCard.iOS[3385:93913] SecTaskCopyDebugDescription: ScratchCard.iOS[3385]/0#-1 LF=0
+2023-02-11 14:33:54.488313+0000 ScratchCard.iOS[3385:93913] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3385
+2023-02-11 14:33:54.488828+0000 ScratchCard.iOS[3385:93913] SecTaskCopyDebugDescription: ScratchCard.iOS[3385]/0#-1 LF=0
+2023-02-11 14:33:54.517833+0000 ScratchCard.iOS[3385:93913] [SceneConfiguration] Info.plist contained no UIScene configuration dictionary (looking for configuration named "(no name)")
+2023-02-11 14:33:54.518119+0000 ScratchCard.iOS[3385:93913] [SceneConfiguration] Info.plist contained no UIScene configuration dictionary (looking for configuration named "(no name)")
+2023-02-11 14:33:54.591801+0000 ScratchCard.iOS[3385:94034] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3385
+2023-02-11 14:33:54.592304+0000 ScratchCard.iOS[3385:94034] SecTaskCopyDebugDescription: ScratchCard.iOS[3385]/0#-1 LF=0
+2023-02-11 14:33:54.933928+0000 ScratchCard.iOS[3385:93913] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=3385
+2023-02-11 14:33:54.934423+0000 ScratchCard.iOS[3385:93913] SecTaskCopyDebugDescription: ScratchCard.iOS[3385]/0#-1 LF=0
